@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thepradip-sj
+- 👋 Hi, I’m Pradip
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on Hackathon
