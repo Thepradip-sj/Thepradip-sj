@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradip
-- 👀 I’m interested in Development
+- 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on Hackathon
 - 📫 How to reach me ...
